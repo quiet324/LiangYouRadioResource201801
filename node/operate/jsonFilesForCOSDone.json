@@ -3166,5 +3166,8 @@
 	},
 	{
 		"fileName": "../operate/all_tr20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ws20180101_songs.json"
 	}
 ]

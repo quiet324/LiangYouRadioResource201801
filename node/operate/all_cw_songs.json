@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20170929",
-		"title": "赞美旋律：《神永不离弃的爱寻回我》",
-		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw170929.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201739/cw20170929/cw/cw170929.mp3",
-		"id": 51170929
-	},
-	{
 		"time": "20171002",
 		"title": "生命之歌：《荣耀归于真神》",
 		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171002.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201752/cw20171229/cw/cw171229.mp3",
 		"id": 51171229
+	},
+	{
+		"time": "20180101",
+		"title": "生命之歌：《亲爱主，牵我手》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180101/cw/cw180101.mp3",
+		"id": 51180101
 	}
 ]

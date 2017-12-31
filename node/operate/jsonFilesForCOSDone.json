@@ -3154,5 +3154,11 @@
 	},
 	{
 		"fileName": "../operate/all_pb20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ds20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ug20180101_songs.json"
 	}
 ]

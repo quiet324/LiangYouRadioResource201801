@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20170930",
-		"title": "圣经好好听：彼得被抓",
-		"downUrl": "http://txly2.net/ly/audio/2017/pc/pc170930.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201739/pc20170930/pc/pc170930.mp3",
-		"id": 17170930
-	},
-	{
 		"time": "20171002",
 		"title": "你来品品理：晏殊与蔡伯俙",
 		"downUrl": "http://txly2.net/ly/audio/2017/pc/pc171002.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201752/pc20171230/pc/pc171230.mp3",
 		"id": 17171230
+	},
+	{
+		"time": "20180101",
+		"title": "你来品品理：好心没好报（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180101.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/pc20180101/pc/pc180101.mp3",
+		"id": 17180101
 	}
 ]

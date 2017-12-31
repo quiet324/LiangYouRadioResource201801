@@ -3082,5 +3082,8 @@
 	},
 	{
 		"fileName": "../operate/all_sa20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ka20180101_songs.json"
 	}
 ]

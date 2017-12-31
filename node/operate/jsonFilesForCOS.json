@@ -3121,5 +3121,8 @@
 	},
 	{
 		"fileName": "../operate/all_up20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_hg20180101_songs.json"
 	}
 ]

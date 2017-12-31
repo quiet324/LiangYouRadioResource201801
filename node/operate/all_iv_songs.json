@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20170929",
-		"title": "奇妙的信心之旅系列：不顺服的心挥之不去（2）",
-		"downUrl": "http://txly2.net/ly/audio/2017/iv/iv170929.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201739/iv20170929/iv/iv170929.mp3",
-		"id": 42170929
-	},
-	{
 		"time": "20171002",
 		"title": "奇妙的信心之旅系列：不顺服的心挥之不去（3）",
 		"downUrl": "http://txly2.net/ly/audio/2017/iv/iv171002.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201752/iv20171229/iv/iv171229.mp3",
 		"id": 42171229
+	},
+	{
+		"time": "20180101",
+		"title": "新年信息系列：神的手在看顾人（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/iv20180101/iv/iv180101.mp3",
+		"id": 42180101
 	}
 ]

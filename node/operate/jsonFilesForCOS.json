@@ -3103,5 +3103,8 @@
 	},
 	{
 		"fileName": "../operate/all_im20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cc20180101_songs.json"
 	}
 ]

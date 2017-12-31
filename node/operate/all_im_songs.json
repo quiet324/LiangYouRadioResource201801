@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20170929",
-		"title": "我想对你说：我已找到那条至美之路──每个人心中都会渴慕追求最美、最好、最理想的路，但那些看似通达、被无数人走过的路，却未见得是真正的好路；我已找到曾经在心中苦苦寻觅的路，这条路让我活得踏实、轻松、明白，你呢？是否找到那条至善至美、至为安全可靠的路了呢？",
-		"downUrl": "http://txly2.net/ly/audio/2017/im/im170929.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201739/im20170929/im/im170929.mp3",
-		"id": 14170929
-	},
-	{
 		"time": "20171002",
 		"title": "我想对你说：生命体验篇之进入生命的秋季──曾经在“思想的癌症”里，死亡竟可被虚幻成美丽的东西……如果人生可以用四季来形容，如今我已走到生命的秋季。虽然离萧条肃杀的冬季不远了，但秋天成熟的果实与灿烂的色彩依然是生命中最辉煌的景致。我唯愿自己在这个季节里，能收获生命的丰盛并结出上主所喜悦的果实，能坦然并以温暖的心接受那即将到来的寒冷冬天，因为即使在今生世界的冬季死去，我相信自己还会在永恒的春天里复活。",
 		"downUrl": "http://txly2.net/ly/audio/2017/im/im171002.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201752/im20171229/im/im171229.mp3",
 		"id": 14171229
+	},
+	{
+		"time": "20180101",
+		"title": "心磁场大平台：带着使命做病人──生病是一件大喜的事情？身为癌症患者，她起初很难接受这么特别的“祝福”，但多年后，她终于明白“要服事病人，自己就要先做病人”。带着使命做病人的她也终于祝福了许多的人。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im180101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/im20180101/im/im180101.mp3",
+		"id": 14180101
 	}
 ]

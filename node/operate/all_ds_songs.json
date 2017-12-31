@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171001",
-		"title": "良院讲台：使我家有粮（玛3:7-12；讲员：卢文牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2017/ds/ds171001.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/ds20171001/ds/ds171001.mp3",
-		"id": 46171001
-	},
-	{
 		"time": "20171002",
 		"title": "良院专区：学习营分享；院庆分享（殷言老师）；公布《约翰福音》考题",
 		"downUrl": "http://txly2.net/ly/audio/2017/ds/ds171002.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201701/ds20171231/ds/ds171231.mp3",
 		"id": 46171231
+	},
+	{
+		"time": "20180101",
+		"title": "良院专区：院长双周记（周广亮牧师）；公布入学试和《教会历史》考题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ds20180101/ds/ds180101.mp3",
+		"id": 46180101
 	}
 ]

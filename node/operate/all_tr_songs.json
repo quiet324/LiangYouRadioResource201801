@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20170929",
-		"title": "野地的花小语：季节改变了树叶的色彩，恩典改变了生命的音符，上帝的作品都是美好。",
-		"downUrl": "http://txly2.net/ly/audio/2017/tr/tr170929.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201739/tr20170929/tr/tr170929.mp3",
-		"id": 52170929
-	},
-	{
 		"time": "20171002",
 		"title": "故事：熟的麦子；点歌：《合而为一》",
 		"downUrl": "http://txly2.net/ly/audio/2017/tr/tr171002.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201752/tr20171229/tr/tr171229.mp3",
 		"id": 52171229
+	},
+	{
+		"time": "20180101",
+		"title": "金句：行为纯正的义人，他的子孙是有福的。（箴20:7）；点歌：《眼光》",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180101.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/tr20180101/tr/tr180101.mp3",
+		"id": 52180101
 	}
 ]

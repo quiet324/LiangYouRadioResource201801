@@ -3172,5 +3172,8 @@
 	},
 	{
 		"fileName": "../operate/all_gt20180101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ynf20180101_songs.json"
 	}
 ]

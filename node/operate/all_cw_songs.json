@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171002",
-		"title": "生命之歌：《荣耀归于真神》",
-		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/cw20171002/cw/cw171002.mp3",
-		"id": 51171002
-	},
-	{
 		"time": "20171003",
 		"title": "敬拜诗歌：《再次将我更新》、《让全世界知道》、《直到耶稣再来时候》",
 		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171003.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180101/cw/cw180101.mp3",
 		"id": 51180101
+	},
+	{
+		"time": "20180102",
+		"title": "敬拜诗歌：《我有喜乐》、《全能上帝是我的主我的神》、《照你心意》、《我需要有你在我生命中》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180102/cw/cw180102.mp3",
+		"id": 51180102
 	}
 ]

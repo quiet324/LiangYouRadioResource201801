@@ -3217,5 +3217,8 @@
 	},
 	{
 		"fileName": "../operate/all_up20180102_songs.json"
+	},
+	{
+		"fileName": "../operate/all_hg20180102_songs.json"
 	}
 ]

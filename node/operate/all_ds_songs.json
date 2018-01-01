@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171002",
-		"title": "良院专区：学习营分享；院庆分享（殷言老师）；公布《约翰福音》考题",
-		"downUrl": "http://txly2.net/ly/audio/2017/ds/ds171002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/ds20171002/ds/ds171002.mp3",
-		"id": 46171002
-	},
-	{
 		"time": "20171003",
 		"title": "教牧新视野：中国教会的基督教教育（林诚牧师、文惠）",
 		"downUrl": "http://txly2.net/ly/audio/2017/ds/ds171003.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ds20180101/ds/ds180101.mp3",
 		"id": 46180101
+	},
+	{
+		"time": "20180102",
+		"title": "教牧新视野：E世代的牧养（2）（林诚、刘芳、小贤）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ds20180102/ds/ds180102.mp3",
+		"id": 46180102
 	}
 ]

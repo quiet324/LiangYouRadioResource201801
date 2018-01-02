@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171003",
-		"title": "敬拜诗歌：《再次将我更新》、《让全世界知道》、《直到耶稣再来时候》",
-		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171003.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/cw20171003/cw/cw171003.mp3",
-		"id": 51171003
-	},
-	{
 		"time": "20171004",
 		"title": "心歌心曲：新心音乐事工诗歌专辑《心的归属》",
 		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171004.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180102/cw/cw180102.mp3",
 		"id": 51180102
+	},
+	{
+		"time": "20180103",
+		"title": "心歌心曲：许金宁卸谢专辑《乖孩子》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180103.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180103/cw/cw180103.mp3",
+		"id": 51180103
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171003",
-		"title": "出黑暗入光明──李天的故事（下）",
-		"downUrl": "http://txly2.net/ly/audio/2017/gn/gn171003.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/gn20171003/gn/gn171003.mp3",
-		"id": 22171003
-	},
-	{
 		"time": "20171004",
 		"title": "自从我认识耶稣──桑尼的故事（上）",
 		"downUrl": "http://txly2.net/ly/audio/2017/gn/gn171004.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/gn20180102/gn/gn180102.mp3",
 		"id": 22180102
+	},
+	{
+		"time": "20180103",
+		"title": "新年特辑：祷告的人生（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180103.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/gn20180103/gn/gn180103.mp3",
+		"id": 22180103
 	}
 ]

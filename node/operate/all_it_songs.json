@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171003",
-		"title": "人生的目的",
-		"downUrl": "http://txly2.net/ly/audio/2017/it/it171003.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/it20171003/it/it171003.mp3",
-		"id": 41171003
-	},
-	{
 		"time": "20171004",
 		"title": "神应允祷告",
 		"downUrl": "http://txly2.net/ly/audio/2017/it/it171004.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/it20180102/it/it180102.mp3",
 		"id": 41180102
+	},
+	{
+		"time": "20180103",
+		"title": "饶恕自己",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it180103.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/it20180103/it/it180103.mp3",
+		"id": 41180103
 	}
 ]

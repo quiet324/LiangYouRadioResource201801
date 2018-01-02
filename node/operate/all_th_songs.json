@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171003",
-		"title": "所罗门的箴言（59）（箴24:10-16）",
-		"downUrl": "http://txly2.net/ly/audio/2017/th/th171003.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/th20171003/th/th171003.mp3",
-		"id": 32171003
-	},
-	{
 		"time": "20171004",
 		"title": "所罗门的箴言（60）（箴24:17-22）",
 		"downUrl": "http://txly2.net/ly/audio/2017/th/th171004.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/th20180102/th/th180102.mp3",
 		"id": 32180102
+	},
+	{
+		"time": "20180103",
+		"title": "顺境人生的虚空（2）（传6:7-12）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th180103.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/th20180103/th/th180103.mp3",
+		"id": 32180103
 	}
 ]

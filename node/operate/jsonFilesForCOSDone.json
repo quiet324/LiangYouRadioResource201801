@@ -3256,5 +3256,8 @@
 	},
 	{
 		"fileName": "../operate/all_ds20180102_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cw20180102_songs.json"
 	}
 ]

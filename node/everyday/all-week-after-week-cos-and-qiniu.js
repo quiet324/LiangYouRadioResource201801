@@ -16,7 +16,7 @@ var deasync = require('deasync');
 var rule = new schedule.RecurrenceRule();
 // rule.dayOfWeek = [0, new schedule.Range(4, 6)];
 rule.hour = [0, 1, 6, 9, 12, 18, 21];
-rule.minute = 5;
+rule.minute = 32;
 
 
 

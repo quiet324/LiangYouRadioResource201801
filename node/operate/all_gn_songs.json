@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171004",
-		"title": "自从我认识耶稣──桑尼的故事（上）",
-		"downUrl": "http://txly2.net/ly/audio/2017/gn/gn171004.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/gn20171004/gn/gn171004.mp3",
-		"id": 22171004
-	},
-	{
 		"time": "20171005",
 		"title": "生命之歌：让我不能成为过去",
 		"downUrl": "http://txly2.net/ly/audio/2017/gn/gn171005.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/gn20180103/gn/gn180103.mp3",
 		"id": 22180103
+	},
+	{
+		"time": "20180104",
+		"title": "生命之歌：因为祢与我同在",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/gn20180104/gn/gn180104.mp3",
+		"id": 22180104
 	}
 ]

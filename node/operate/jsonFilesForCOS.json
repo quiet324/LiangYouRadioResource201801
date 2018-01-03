@@ -3454,5 +3454,8 @@
 	},
 	{
 		"fileName": "../operate/all_cw20180104_songs.json"
+	},
+	{
+		"fileName": "../operate/all_tr20180104_songs.json"
 	}
 ]

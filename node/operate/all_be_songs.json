@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171004",
-		"title": "同心事主——使徒行传（26）保罗在耶路撒冷（上）",
-		"downUrl": "http://txly2.net/ly/audio/2017/be/be171004.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/be20171004/be/be171004.mp3",
-		"id": 36171004
-	},
-	{
 		"time": "20171005",
 		"title": "同心事主——使徒行传（27）保罗在耶路撒冷（下）",
 		"downUrl": "http://txly2.net/ly/audio/2017/be/be171005.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/be20180103/be/be180103.mp3",
 		"id": 36180103
+	},
+	{
+		"time": "20180104",
+		"title": "遵守主言——申命记（4）申2:1-3:11",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be180104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/be20180104/be/be180104.mp3",
+		"id": 36180104
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171004",
-		"title": "我想对你说：生命体验篇之告别父亲的回顾──面对死亡，人可能永远都无法预知自己会有怎样的反应。父亲离世时，享年93岁，人说他高寿，是寿中正寢……在猝不及防的悲伤体验里，我感受到安慰话语的宝贵，但永恒生命的确据才是最大的安慰，衪将痛苦悲伤转为平安盼望，让我确实知道，有一天度尽在世的年日，我们也会回到那个美丽的永恒家园，再与父亲相见……",
-		"downUrl": "http://txly2.net/ly/audio/2017/im/im171004.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/im20171004/im/im171004.mp3",
-		"id": 14171004
-	},
-	{
 		"time": "20171005",
 		"title": "我想对你说：生命体验篇之一粒麦子的使命──“一粒麦子不落在地里死了，仍旧是一粒；若是死了，就结出许多子粒来。”衪把自己视作一粒麦子，也将跟随衪的人同等视作麦子。于是，有不少“麦子”们放弃优越的生活条件甚至舍弃自己的生命，成为别人生命的祝福……",
 		"downUrl": "http://txly2.net/ly/audio/2017/im/im171005.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/im20180103/im/im180103.mp3",
 		"id": 14180103
+	},
+	{
+		"time": "20180104",
+		"title": "黄昏下午茶：生命怎样才能改变？──看到别人信了主，病得医治、性格发生巨变……自己却依然如故，生活没有发生任何变化；有拖拉、懒散的毛病，或总爱发脾气，不晓得如何才能改变；归结其因，总要回到生命的本质改变以及由内而外的变化。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im180104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/im20180104/im/im180104.mp3",
+		"id": 14180104
 	}
 ]

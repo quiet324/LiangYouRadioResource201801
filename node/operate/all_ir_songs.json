@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171004",
-		"title": "送暖行动（1）活动介绍——实用物资征集行动",
-		"downUrl": "http://txly2.net/ly/audio/2017/ir/ir171004.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/ir20171004/ir/ir171004.mp3",
-		"id": 12171004
-	},
-	{
 		"time": "20171005",
 		"title": "我们是好夥伴：江苏白姊妹；听众为电台祷告",
 		"downUrl": "http://txly2.net/ly/audio/2017/ir/ir171005.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ir20180103/ir/ir180103.mp3",
 		"id": 12180103
+	},
+	{
+		"time": "20180104",
+		"title": "节目动起来：《晨曦讲座》、《生活无国界》；我们是好夥伴：广东黄姊妹",
+		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir180104.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ir20180104/ir/ir180104.mp3",
+		"id": 12180104
 	}
 ]

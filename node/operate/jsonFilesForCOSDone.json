@@ -3379,5 +3379,8 @@
 	},
 	{
 		"fileName": "../operate/all_ka20180104_songs.json"
+	},
+	{
+		"fileName": "../operate/all_fc20180104_songs.json"
 	}
 ]

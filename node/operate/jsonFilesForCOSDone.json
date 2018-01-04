@@ -3529,5 +3529,8 @@
 	},
 	{
 		"fileName": "../operate/all_ee20180105_songs.json"
+	},
+	{
+		"fileName": "../operate/all_mw20180105_songs.json"
 	}
 ]

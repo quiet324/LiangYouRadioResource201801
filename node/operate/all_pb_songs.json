@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171005",
-		"title": "传递信心──巴拉",
-		"downUrl": "http://txly2.net/ly/audio/2017/pb/pb171005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/pb20171005/pb/pb171005.mp3",
-		"id": 44171005
-	},
-	{
 		"time": "20171006",
 		"title": "信心的崩溃──参孙",
 		"downUrl": "http://txly2.net/ly/audio/2017/pb/pb171006.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/pb20180104/pb/pb180104.mp3",
 		"id": 44180104
+	},
+	{
+		"time": "20180105",
+		"title": "属灵争战上夸胜",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/pb20180105/pb/pb180105.mp3",
+		"id": 44180105
 	}
 ]

@@ -3487,5 +3487,8 @@
 	},
 	{
 		"fileName": "../operate/all_bc20180105_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ir20180105_songs.json"
 	}
 ]

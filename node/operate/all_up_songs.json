@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171005",
-		"title": "婚姻之爱（4）爱是满足对方的需要（嘉宾：灵风牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2017/up/up171005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/up20171005/up/up171005.mp3",
-		"id": 20171005
-	},
-	{
 		"time": "20171006",
 		"title": "与父母促膝谈（17）属天的关系；舒舒“爱的不朽传说 ”（11）婚姻关乎着天堂和地狱",
 		"downUrl": "http://txly2.net/ly/audio/2017/up/up171006.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/up20180104/up/up180104.mp3",
 		"id": 20180104
+	},
+	{
+		"time": "20180105",
+		"title": "进入大学生活的期待（4）建立人际关系",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up180105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/up20180105/up/up180105.mp3",
+		"id": 20180105
 	}
 ]

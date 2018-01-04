@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171005",
-		"title": "奇妙的信心之旅系列：弄璋之喜（3）",
-		"downUrl": "http://txly2.net/ly/audio/2017/iv/iv171005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/iv20171005/iv/iv171005.mp3",
-		"id": 42171005
-	},
-	{
 		"time": "20171006",
 		"title": "奇妙的信心之旅系列：忽视罪恶的后果（1）",
 		"downUrl": "http://txly2.net/ly/audio/2017/iv/iv171006.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/iv20180104/iv/iv180104.mp3",
 		"id": 42180104
+	},
+	{
+		"time": "20180105",
+		"title": "卓越的事工系列：神计划的教会（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/iv20180105/iv/iv180105.mp3",
+		"id": 42180105
 	}
 ]

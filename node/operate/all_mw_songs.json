@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171005",
-		"title": "胜过试炼（赛30:18-21）",
-		"downUrl": "http://txly2.net/ly/audio/2017/mw/mw171005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/mw20171005/mw/mw171005.mp3",
-		"id": 30171005
-	},
-	{
 		"time": "20171006",
 		"title": "与主交谈（约15:9-17）",
 		"downUrl": "http://txly2.net/ly/audio/2017/mw/mw171006.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/mw20180104/mw/mw180104.mp3",
 		"id": 30180104
+	},
+	{
+		"time": "20180105",
+		"title": "活在神的计划中（太6:27-34）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/mw20180105/mw/mw180105.mp3",
+		"id": 30180105
 	}
 ]

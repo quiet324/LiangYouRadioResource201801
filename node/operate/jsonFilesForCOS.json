@@ -3550,5 +3550,8 @@
 	},
 	{
 		"fileName": "../operate/all_ds20180105_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cw20180105_songs.json"
 	}
 ]

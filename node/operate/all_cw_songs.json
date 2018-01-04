@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171005",
-		"title": "祷告诗歌：《公义圣洁主》、《弹琴歌颂你》、《你昔在今在永在》",
-		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171005.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/cw20171005/cw/cw171005.mp3",
-		"id": 51171005
-	},
-	{
 		"time": "20171006",
 		"title": "赞美旋律：马来西亚基督徒声乐家张金龙老师见证",
 		"downUrl": "http://txly2.net/ly/audio/2017/cw/cw171006.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180104/cw/cw180104.mp3",
 		"id": 51180104
+	},
+	{
+		"time": "20180105",
+		"title": "赞美旋律：罹患精神疾病18年得康复",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cw20180105/cw/cw180105.mp3",
+		"id": 51180105
 	}
 ]

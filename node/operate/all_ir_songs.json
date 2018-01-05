@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171006",
-		"title": "夥．热话题：微信为什么显示“音频破坏”呢？节目动起来：《小耳朵的音乐旅行》节目介绍",
-		"downUrl": "http://txly2.net/ly/audio/2017/ir/ir171006.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/ir20171006/ir/ir171006.mp3",
-		"id": 12171006
-	},
-	{
 		"time": "20171007",
 		"title": "赵群心语：韩国夥伴的儿童合唱团到电台表演，他们带着什么使命呢？",
 		"downUrl": "http://txly2.net/ly/audio/2017/ir/ir171007.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ir20180105/ir/ir180105.mp3",
 		"id": 12180105
+	},
+	{
+		"time": "20180106",
+		"title": "节目动起来：《空中辅导》、《i-Radio爱广播》；广播梦工场：理念介绍；回应听众：RFH",
+		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir180106.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ir20180106/ir/ir180106.mp3",
+		"id": 12180106
 	}
 ]

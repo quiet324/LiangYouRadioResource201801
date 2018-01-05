@@ -3631,5 +3631,8 @@
 	},
 	{
 		"fileName": "../operate/all_wa20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cwa20180106_songs.json"
 	}
 ]

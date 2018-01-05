@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171006",
-		"title": "绝妙小剧场：天使的三个答案",
-		"downUrl": "http://txly2.net/ly/audio/2017/yu/yu171006.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/yu20171006/yu/yu171006.mp3",
-		"id": 7171006
-	},
-	{
 		"time": "20171007",
 		"title": "绝妙封面人物：Tina的日本经历",
 		"downUrl": "http://txly2.net/ly/audio/2017/yu/yu171007.mp3",
@@ -1007,5 +996,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/yu20180105/yu/yu180105.mp3",
 		"id": 7180105
+	},
+	{
+		"time": "20180106",
+		"title": "绝妙封面人物：兰大卫的家庭生活",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/yu20180106/yu/yu180106.mp3",
+		"id": 7180106
 	}
 ]

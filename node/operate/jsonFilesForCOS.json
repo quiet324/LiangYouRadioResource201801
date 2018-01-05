@@ -3592,5 +3592,8 @@
 	},
 	{
 		"fileName": "../operate/all_ir20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cc20180106_songs.json"
 	}
 ]

@@ -3589,5 +3589,8 @@
 	},
 	{
 		"fileName": "../operate/all_rt20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ir20180106_songs.json"
 	}
 ]

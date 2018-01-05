@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171005",
-		"title": "活在当下：让我们继续（来9:28）；人物背后：他们曾改变世界（7）（主持：罗文辉）；我爱背金句：罗12:3",
-		"downUrl": "http://txly2.net/ly/audio/2017/dy/dy171005.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/dy20171005/dy/dy171005.mp3",
-		"id": 24171005
-	},
-	{
 		"time": "20171006",
 		"title": "活在当下：回应危机（诗61:2）；生活在圣经中：衣（7）（主持：文惠）；我爱背金句：罗12:3",
 		"downUrl": "http://txly2.net/ly/audio/2017/dy/dy171006.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/dy20180104/dy/dy180104.mp3",
 		"id": 24180104
+	},
+	{
+		"time": "20180105",
+		"title": "好得无比，每一天：更大的挑战（诗111:10）；生活，在圣经中：行（1）雅各天梯（主持：文惠）",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180105.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/dy20180105/dy/dy180105.mp3",
+		"id": 24180105
 	}
 ]

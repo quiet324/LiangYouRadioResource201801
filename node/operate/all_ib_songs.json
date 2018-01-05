@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20171006",
-		"title": "给我你的手：听众点播歌曲《选择相信》 、《中国大有希望》、《你知道》；为手机尾号2014安徽王弟兄祷告（主持：刘佳音）",
-		"downUrl": "http://txly2.net/ly/audio/2017/ib/ib171006.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 16,
-		"artistName": "无限飞行号",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201740/ib20171006/ib/ib171006.mp3",
-		"id": 16171006
-	},
-	{
 		"time": "20171007",
 		"title": "《无限飞行号》老朋友、再相逢：精彩听众热线分享",
 		"downUrl": "http://txly2.net/ly/audio/2017/ib/ib171007.mp3",
@@ -1006,5 +995,16 @@
 		"artistName": "无限飞行号",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ib20180105/ib/ib180105.mp3",
 		"id": 16180105
+	},
+	{
+		"time": "20180106",
+		"title": "听众热线分享：想信耶稣该怎办？（四川严姊妹）；一起来摒弃负能量，让我们给生活加点鸡精（主持：罗文辉、刘佳音）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 16,
+		"artistName": "无限飞行号",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/ib20180106/ib/ib180106.mp3",
+		"id": 16180106
 	}
 ]

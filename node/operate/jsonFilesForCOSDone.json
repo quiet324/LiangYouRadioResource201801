@@ -3640,5 +3640,8 @@
 	},
 	{
 		"fileName": "../operate/all_hw20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_bs20180106_songs.json"
 	}
 ]

@@ -3622,5 +3622,11 @@
 	},
 	{
 		"fileName": "../operate/all_hd20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_gl20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_th20180106_songs.json"
 	}
 ]

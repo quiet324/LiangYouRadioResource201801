@@ -3646,5 +3646,8 @@
 	},
 	{
 		"fileName": "../operate/all_ds20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_mj20180106_songs.json"
 	}
 ]

@@ -3604,5 +3604,8 @@
 	},
 	{
 		"fileName": "../operate/all_bf20180106_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ls20180106_songs.json"
 	}
 ]

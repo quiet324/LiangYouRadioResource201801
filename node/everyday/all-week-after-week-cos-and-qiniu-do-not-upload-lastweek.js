@@ -15,12 +15,12 @@ var deasync = require('deasync');
 
 var rule = new schedule.RecurrenceRule();
 // rule.dayOfWeek = [0, new schedule.Range(4, 6)];
-rule.hour = [15];
-rule.minute = 25;
+rule.hour = [17];
+rule.minute = 8;
 
 
 
-var yesterdayOffset = -7;
+var yesterdayOffset = -5;
 
 
 

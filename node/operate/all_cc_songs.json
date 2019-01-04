@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181013",
-		"title": "乐哉家庭：离婚辅导与关怀（4）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181013.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181013/cc/cc181013.mp3",
-		"id": 15181013
-	},
-	{
 		"time": "20181015",
 		"title": "每周辅导教室：对至高者愤怒（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181015.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/cc20181229/cc/cc181229.mp3",
 		"id": 15181229
+	},
+	{
+		"time": "20181230",
+		"title": "心存主道：痛苦与盼望（周广亮）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181230.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cc20181230/cc/cc181230.mp3",
+		"id": 15181230
 	}
 ]

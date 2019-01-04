@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180930",
-		"title": "耶路撒冷复兴大会（3）（尼8:9-12）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180930.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/th20180930/th/th180930.mp3",
-		"id": 32180930
-	},
-	{
 		"time": "20181001",
 		"title": "雅各计夺父亲的祝福（5）（创27:41-46）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th181001.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/th20181230/th/th181230.mp3",
 		"id": 32181230
+	},
+	{
+		"time": "20181231",
+		"title": "约瑟为酒政和膳长解梦（1）（创40:1-4）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181231.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/th20181231/th/th181231.mp3",
+		"id": 32181231
 	}
 ]

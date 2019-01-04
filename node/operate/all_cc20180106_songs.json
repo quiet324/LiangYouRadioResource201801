@@ -1,27 +1,5 @@
 [
 	{
-		"time": "20171019",
-		"title": "心存主道：圣经中的夫妇（6）暗兰、约基别（郑子民牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2017/cc/cc171019.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201742/cc20171019/cc/cc171019.mp3",
-		"id": 15171019
-	},
-	{
-		"time": "20171020",
-		"title": "热线辅导",
-		"downUrl": "http://txly2.net/ly/audio/2017/cc/cc171020.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201742/cc20171020/cc/cc171020.mp3",
-		"id": 15171020
-	},
-	{
 		"time": "20171021",
 		"title": "乐哉家庭：活出彩虹（4）",
 		"downUrl": "http://txly2.net/ly/audio/2017/cc/cc171021.mp3",
@@ -943,6 +921,28 @@
 		"artistId": 15,
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201801/cc20180106/cc/cc180106.mp3",
+		"id": 15180106
+	},
+	{
+		"time": "20180107",
+		"title": "心存主道：耶稣是谁之三个“子”（罗文辉老师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180107.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201802/cc20180107/cc/cc180107.mp3",
+		"id": 15180107
+	},
+	{
+		"time": "20180106",
+		"title": "乐哉家庭：基督化家庭（1）什么是基督化家庭？",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180106.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201802/cc20180106/cc/cc180106.mp3",
 		"id": 15180106
 	}
 ]

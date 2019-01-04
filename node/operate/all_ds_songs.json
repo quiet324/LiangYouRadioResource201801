@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180929",
-		"title": "从布道到培训：爱心的问候与主里的团契（主持：卢文、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180929.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ds20180929/ds/ds180929.mp3",
-		"id": 46180929
-	},
-	{
 		"time": "20180930",
 		"title": "良院讲台：耶稣的受洗（太3:7-17；讲员：罗文辉）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180930.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/ds20181229/ds/ds181229.mp3",
 		"id": 46181229
+	},
+	{
+		"time": "20181230",
+		"title": "圣诞特辑：以信心迎难而上（7）要忠心丶要坚持（来12-13章；讲员：张风老师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181230.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/ds20181230/ds/ds181230.mp3",
+		"id": 46181230
 	}
 ]

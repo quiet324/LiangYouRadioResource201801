@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180928",
-		"title": "彩虹花园：第二章、欢迎-2；第三章、在雾的另一面-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180928.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/bc20180928/bc/bc180928.mp3",
-		"id": 10180928
-	},
-	{
 		"time": "20181001",
 		"title": "信心日引：享受你所拥有的（传6:9）；俗世圣徒：第五章、友谊-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181001.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/bc20181228/bc/bc181228.mp3",
 		"id": 10181228
+	},
+	{
+		"time": "20181231",
+		"title": "信心日引：我们是神的儿女（约壹3:1）；做基督的管家：第七章、做恩赐的管家-3",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181231.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/bc20181231/bc/bc181231.mp3",
+		"id": 10181231
 	}
 ]

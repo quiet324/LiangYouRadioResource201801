@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180928",
-		"title": "母子两地书：最好的教育是身体力行──作为母亲，她鼓励孩子多读书，她自己就先做一个爱读书的人；她教导孩子关心他人、关注世界上发生的事，她自己就投身在关怀辅导人的事工，并总是跟孩子交流她对世界的看法。这样身体力行的教育潜移默化地影响和熏陶着孩子的健康成长。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180928.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/im20180928/im/im180928.mp3",
-		"id": 14180928
-	},
-	{
 		"time": "20181001",
 		"title": "信仰大擂台：神的创造之进化论与创造论带来的不同影响──无神论的教育告诉我们人是进化来的，创造论认为天地万物都是神创造的，而无论是进化论还是创造论，都无法通过实验室的证据来证明，并且很多事物都无法从实验室里证明出来。但无论接受哪一个观点，其实都需要信心。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181001.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/im20181228/im/im181228.mp3",
 		"id": 14181228
+	},
+	{
+		"time": "20181231",
+		"title": "心磁场大平台：如此温暖的辞世──美国前总统老布什的葬礼充满和睦、微笑、纯粹、温暖、美好，据说这个基调是小布什设定的，而他给父亲的致悼词更是充满了幽默诙谐，让人动容。一个人的离世本是让人伤心难过、令亲人哀恸的事件，但这个人的辞世为何如此感人肺腑又充满温馨盼望？甚至让人觉得死亡都是一件很荣耀的事了……",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181231.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/im20181231/im/im181231.mp3",
+		"id": 14181231
 	}
 ]

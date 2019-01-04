@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180929",
-		"title": "应当快乐（诗5篇）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180929.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/mw20180929/mw/mw180929.mp3",
-		"id": 30180929
-	},
-	{
 		"time": "20180930",
 		"title": "神最喜欢听的乐音（太26:36-44）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180930.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201852/mw20181229/mw/mw181229.mp3",
 		"id": 30181229
+	},
+	{
+		"time": "20181230",
+		"title": "早起灵修（赛50:4-10）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181230.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/mw20181230/mw/mw181230.mp3",
+		"id": 30181230
 	}
 ]

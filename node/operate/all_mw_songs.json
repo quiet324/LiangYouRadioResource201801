@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180930",
-		"title": "神最喜欢听的乐音（太26:36-44）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180930.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20180930/mw/mw180930.mp3",
-		"id": 30180930
-	},
-	{
 		"time": "20181001",
 		"title": "刺人的荆棘（林后12:1-10）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181001.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/mw20181230/mw/mw181230.mp3",
 		"id": 30181230
+	},
+	{
+		"time": "20181231",
+		"title": "从历史中追想（赛51:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181231.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/mw20181231/mw/mw181231.mp3",
+		"id": 30181231
 	}
 ]

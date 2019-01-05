@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181002",
-		"title": "创译英文同乐会：箴14:23──勤劳有益",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/yu20181002/yu/yu181002.mp3",
-		"id": 7181002
-	},
-	{
 		"time": "20181003",
 		"title": "绝妙各行业：低升糖饮食（上）",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181003.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/yu20190101/yu/yu190101.mp3",
 		"id": 7190101
+	},
+	{
+		"time": "20190102",
+		"title": "绝妙各行业：文创设计（下）",
+		"downUrl": "http://txly2.net/ly/audio/2019/yu/yu190102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/yu20190102/yu/yu190102.mp3",
+		"id": 7190102
 	}
 ]

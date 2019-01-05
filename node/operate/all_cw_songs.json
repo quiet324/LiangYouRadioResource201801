@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181002",
-		"title": "弹指之间：《主你是我力量》、《坚固保障》、《主你永远与我同在》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181002/cw/cw181002.mp3",
-		"id": 51181002
-	},
-	{
 		"time": "20181003",
 		"title": "心歌心曲：劳伦戴格尔《抬头看孩子》、《一切》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181003.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190101/cw/cw190101.mp3",
 		"id": 51190101
+	},
+	{
+		"time": "20190102",
+		"title": "心歌心曲：李玖哲──Heart Of Worship、《Let Go》、《Come Just As You Are》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190102/cw/cw190102.mp3",
+		"id": 51190102
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181103",
-		"title": "周末颜明放羊班：分享节目更新感想",
-		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181103.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 65,
-		"artistName": "星动一刻",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181103/hp/hp181103.mp3",
-		"id": 65181103
-	},
-	{
 		"time": "20181104",
 		"title": "周末颜明放羊班：分享拥有的意义",
 		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181104.mp3",
@@ -658,5 +647,16 @@
 		"artistName": "星动一刻",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/hp20190101/hp/hp190101.mp3",
 		"id": 65190101
+	},
+	{
+		"time": "20190102",
+		"title": "热点慢半拍：虚假名言的来源 ；心动小语：有人帮助你",
+		"downUrl": "http://txly2.net/ly/audio/2019/hp/hp190102.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/hp20190102/hp/hp190102.mp3",
+		"id": 65190102
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181002",
-		"title": "生活帮帮忙：尴尬的冷战期",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181002.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/pc20181002/pc/pc181002.mp3",
-		"id": 17181002
-	},
-	{
 		"time": "20181003",
 		"title": "音乐咕咕钟：听见",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181003.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/pc20190101/pc/pc190101.mp3",
 		"id": 17190101
+	},
+	{
+		"time": "20190102",
+		"title": "音乐咕咕钟：早知道",
+		"downUrl": "http://txly2.net/ly/audio/2019/pc/pc190102.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/pc20190102/pc/pc190102.mp3",
+		"id": 17190102
 	}
 ]

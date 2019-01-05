@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181001",
-		"title": "福音自由——加拉太书（30）与雅各书比较（讲员：李重恩）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181001.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/be20181001/be/be181001.mp3",
-		"id": 36181001
-	},
-	{
 		"time": "20181002",
 		"title": "靠主喜乐——腓立比书（1）导论（讲员：陈湘儿）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181002.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/be20181231/be/be181231.mp3",
 		"id": 36181231
+	},
+	{
+		"time": "20190101",
+		"title": "创世记（1）导论──从历史角度、真理启示介绍创世记（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/be20190101/be/be190101.mp3",
+		"id": 36190101
 	}
 ]

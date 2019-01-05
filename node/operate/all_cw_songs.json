@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181001",
-		"title": "生命之歌：克罗理《上主之灵，恳求降临》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181001.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181001/cw/cw181001.mp3",
-		"id": 51181001
-	},
-	{
 		"time": "20181002",
 		"title": "弹指之间：《主你是我力量》、《坚固保障》、《主你永远与我同在》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181002.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20181231/cw/cw181231.mp3",
 		"id": 51181231
+	},
+	{
+		"time": "20190101",
+		"title": "弹指之间：《一切都是新的》、《我心灵得安宁》、《在基督里》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190101/cw/cw190101.mp3",
+		"id": 51190101
 	}
 ]

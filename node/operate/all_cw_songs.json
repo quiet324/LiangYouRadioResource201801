@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181004",
-		"title": "来吧赞美：《满有能力》、《我宁愿有耶稣》、《更新我心意》、《我一点不怀疑你能力》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181004.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181004/cw/cw181004.mp3",
-		"id": 51181004
-	},
-	{
 		"time": "20181005",
 		"title": "赞美旋律：巴赫b小调弥撒曲之《荣耀颂》（后段）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181005.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190103/cw/cw190103.mp3",
 		"id": 51190103
+	},
+	{
+		"time": "20190104",
+		"title": "赞美旋律：约翰‧卢特《荣耀颂》第三乐章、《齐来谢主》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190104/cw/cw190104.mp3",
+		"id": 51190104
 	}
 ]

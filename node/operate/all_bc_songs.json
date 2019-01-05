@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181003",
-		"title": "信心日引：微弱的信心（加5:5）；俗世圣徒：第六章、圣所-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181003.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181003/bc/bc181003.mp3",
-		"id": 10181003
-	},
-	{
 		"time": "20181004",
 		"title": "信心日引：重生与善行（约3:3）；俗世圣徒：第六章、圣所-2",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181004.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/bc20190102/bc/bc190102.mp3",
 		"id": 10190102
+	},
+	{
+		"time": "20190103",
+		"title": "信心日引：不好的例子，带给我们希望（创38:24）；做基督的管家：第八章、做婚姻的管家-1",
+		"downUrl": "http://txly2.net/ly/audio/2019/bc/bc190103.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/bc20190103/bc/bc190103.mp3",
+		"id": 10190103
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181101",
-		"title": "音乐灵修：求主赐平静与安宁",
-		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181101.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 66,
-		"artistName": "迎风传颂",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/wn20181101/wn/wn181101.mp3",
-		"id": 66181101
-	},
-	{
 		"time": "20181102",
 		"title": "璀璨音符：欣赏诗歌《被爱感动》、《因他活着》、《无与伦比的爱》",
 		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181102.mp3",
@@ -471,5 +460,16 @@
 		"artistName": "迎风传颂",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/wn20181231/wn/wn181231.mp3",
 		"id": 66181231
+	},
+	{
+		"time": "20190101",
+		"title": "华夏颂扬：介绍打马字──养心神诗；宾威廉──榕腔神诗；歌曲：《诗篇150篇》、《愿你平安》、《弟兄你又启程》",
+		"downUrl": "http://txly2.net/ly/audio/2019/wn/wn190101.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 66,
+		"artistName": "迎风传颂",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/wn20190101/wn/wn190101.mp3",
+		"id": 66190101
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181002",
-		"title": "为神建立家室：服侍人的君王",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ut20181002/ut/ut181002.mp3",
-		"id": 18181002
-	},
-	{
 		"time": "20181003",
 		"title": "为神建立家室：彼得后书生命与虔敬",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181003.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/ut20190101/ut/ut190101.mp3",
 		"id": 18190101
+	},
+	{
+		"time": "20190102",
+		"title": "为神建立家室：祷告与信心",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/ut20190102/ut/ut190102.mp3",
+		"id": 18190102
 	}
 ]

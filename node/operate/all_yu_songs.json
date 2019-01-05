@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181001",
-		"title": "绝妙一周乐：爱赐人希望",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181001.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/yu20181001/yu/yu181001.mp3",
-		"id": 7181001
-	},
-	{
 		"time": "20181002",
 		"title": "创译英文同乐会：箴14:23──勤劳有益",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181002.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/yu20181231/yu/yu181231.mp3",
 		"id": 7181231
+	},
+	{
+		"time": "20190101",
+		"title": "创译英文同乐会：你们祷告，只要信就必得着",
+		"downUrl": "http://txly2.net/ly/audio/2019/yu/yu190101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/yu20190101/yu/yu190101.mp3",
+		"id": 7190101
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181003",
-		"title": "雅各离家出走（2）（创28:6-9）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th181003.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/th20181003/th/th181003.mp3",
-		"id": 32181003
-	},
-	{
 		"time": "20181004",
 		"title": "雅各离家出走（3）（创28:10-15）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th181004.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/th20190102/th/th190102.mp3",
 		"id": 32190102
+	},
+	{
+		"time": "20190103",
+		"title": "约瑟为酒政和膳长解梦（4）（创40:16-23）",
+		"downUrl": "http://txly2.net/ly/audio/2019/th/th190103.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/th20190103/th/th190103.mp3",
+		"id": 32190103
 	}
 ]

@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181105",
-		"title": "心中有歌：尧尧专辑──《拥抱夜光》、《天堂就在这里》、《在水上行走》",
-		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181105.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 66,
-		"artistName": "迎风传颂",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/wn20181105/wn/wn181105.mp3",
-		"id": 66181105
-	},
-	{
 		"time": "20181106",
 		"title": "华夏颂扬：介绍米僯的诗集",
 		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181106.mp3",
@@ -471,5 +460,16 @@
 		"artistName": "迎风传颂",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/wn20190102/wn/wn190102.mp3",
 		"id": 66190102
+	},
+	{
+		"time": "20190103",
+		"title": "音乐灵修：诗班的角色；歌曲：《坐在宝座上圣洁羔羊》、Amazing Grace、《愿主赐福保护你》",
+		"downUrl": "http://txly2.net/ly/audio/2019/wn/wn190103.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 66,
+		"artistName": "迎风传颂",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/wn20190103/wn/wn190103.mp3",
+		"id": 66190103
 	}
 ]

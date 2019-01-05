@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181001",
-		"title": "光明之子（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181001.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/gn20181001/gn/gn181001.mp3",
-		"id": 22181001
-	},
-	{
 		"time": "20181002",
 		"title": "光明之子（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181002.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/gn20181231/gn/gn181231.mp3",
 		"id": 22181231
+	},
+	{
+		"time": "20190101",
+		"title": "信靠耶稣──血漏妇人的故事",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/gn20190101/gn/gn190101.mp3",
+		"id": 22190101
 	}
 ]

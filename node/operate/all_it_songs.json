@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181004",
-		"title": "作仆人的秘诀",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it181004.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/it20181004/it/it181004.mp3",
-		"id": 41181004
-	},
-	{
 		"time": "20181005",
 		"title": "服事的奖赏",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it181005.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/it20190103/it/it190103.mp3",
 		"id": 41190103
+	},
+	{
+		"time": "20190104",
+		"title": "不饶恕人的挣扎（2）",
+		"downUrl": "http://txly2.net/ly/audio/2019/it/it190104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/it20190104/it/it190104.mp3",
+		"id": 41190104
 	}
 ]

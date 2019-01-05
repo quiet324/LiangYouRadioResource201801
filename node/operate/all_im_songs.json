@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181002",
-		"title": "信仰大擂台：神的创造之从接纳人到接纳神──他在书城偶遇一个陌生人（基督徒），由此他得到一本圣经，认识了一群很特别的人，他们的喜乐、平和、亲切、温暖都吸引他一步步靠近，结果他从中找到了真相──神！",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181002/im/im181002.mp3",
-		"id": 14181002
-	},
-	{
 		"time": "20181003",
 		"title": "信仰大擂台：神的创造之敬畏之心──如此有规律的浩瀚宇宙，大自然的奇妙，人内心深处对人生意义与永恒生命的追求，都让人无法回避有一位创造主的存在，人需要跳出进化论这个先入为主的观念，重新审视与思考创造论是否迷信。因为事实上，要接受进化论需要更大的信心！人在面对天、地、大自然、人体与心灵，若心存敬畏，必能明白神的奇妙创造。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181003.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/im20190101/im/im190101.mp3",
 		"id": 14190101
+	},
+	{
+		"time": "20190102",
+		"title": "太太空间：儿子自闭、女儿脑瘫、丈夫家暴，我怎么办？──都说母亲是最伟大的，可再伟大的人都可能会被沉重的包袱压跨，更何况这位拥有两个特殊病孩的母亲，在最痛苦的时候，不仅得不到丈夫的支持，还换来丈夫的家暴，孤立无援的她该如何支撑起一个愁云惨雾的家庭？又如何让自己和整个家庭看到希望呢？",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/im20190102/im/im190102.mp3",
+		"id": 14190102
 	}
 ]

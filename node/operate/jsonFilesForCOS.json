@@ -37534,5 +37534,8 @@
 	},
 	{
 		"fileName": "../operate/all_cw20190101_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ws20190101_songs.json"
 	}
 ]

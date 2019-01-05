@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181003",
-		"title": "心歌心曲：劳伦戴格尔《抬头看孩子》、《一切》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181003.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181003/cw/cw181003.mp3",
-		"id": 51181003
-	},
-	{
 		"time": "20181004",
 		"title": "来吧赞美：《满有能力》、《我宁愿有耶稣》、《更新我心意》、《我一点不怀疑你能力》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181004.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190102/cw/cw190102.mp3",
 		"id": 51190102
+	},
+	{
+		"time": "20190103",
+		"title": "来吧赞美：《新的事将要成就》、《我要顺服》、《活在你面前》、《信心的旅途》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190103.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/cw20190103/cw/cw190103.mp3",
+		"id": 51190103
 	}
 ]

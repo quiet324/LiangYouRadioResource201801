@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181004",
-		"title": "信心日引：重生与善行（约3:3）；俗世圣徒：第六章、圣所-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181004.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181004/bc/bc181004.mp3",
-		"id": 10181004
-	},
-	{
 		"time": "20181005",
 		"title": "彩虹花园：第三章、在雾的另一面-2；第四章、彩虹脚下-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181005.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/bc20190103/bc/bc190103.mp3",
 		"id": 10190103
+	},
+	{
+		"time": "20190104",
+		"title": "彩虹花园：第十六章、门口的小孩",
+		"downUrl": "http://txly2.net/ly/audio/2019/bc/bc190104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/bc20190104/bc/bc190104.mp3",
+		"id": 10190104
 	}
 ]

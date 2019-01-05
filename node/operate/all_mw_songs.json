@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181002",
-		"title": "胜败乃在乎神（赛49:14-23）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181002.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181002/mw/mw181002.mp3",
-		"id": 30181002
-	},
-	{
 		"time": "20181003",
 		"title": "塞翁失马（罗8:28-39）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181003.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/mw20190101/mw/mw190101.mp3",
 		"id": 30190101
+	},
+	{
+		"time": "20190102",
+		"title": "渴望更高之处（结41:1-7）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201901/mw20190102/mw/mw190102.mp3",
+		"id": 30190102
 	}
 ]
